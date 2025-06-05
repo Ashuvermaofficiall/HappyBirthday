@@ -29,9 +29,10 @@ export default function Countdown({ targetDate, onCountdownEnd }) {
 
       setTimeLeft(updated)
       if (!updated || Object.keys(updated).length <= 0) {
-        onCountdownEnd()
-      }
-    }, 1000)
+        setTimeout(() => {
+          onCountdownEnd()
+      }, 3000)
+    }
 
     return () => clearTimeout(timer)
   }, [timeLeft, targetDate])
