@@ -14,7 +14,7 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(true)
   const [bubbles, setBubbles] = useState([])
   const [showForYouBtn, setShowForYouBtn] = useState(false)
-  const birthdayDate = new Date("June 5, 2025 22:54:30") // Change this date accordingly
+  const birthdayDate = new Date("June 5, 2025 23:04:00") // Change this date accordingly
   const audioRef = useRef(null)
 
   // For testing
