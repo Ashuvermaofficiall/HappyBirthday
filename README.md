@@ -61,7 +61,7 @@ Make sure to update the target date in `Home` component if you want to reuse thi
 
 Follow for more such creative and code-based content!
 
-- 📸 **Instagram**: [@anujbuilds](https://instagram.com/_cheri_1122)
+- 📸 **Instagram**: [@_cheri_1122](https://instagram.com/_cheri_1122)
 ---
 
 Thanks for checking out this project! If you liked it, consider giving it a ⭐️ on GitHub and sharing the reel ❤️
