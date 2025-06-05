@@ -31,9 +31,8 @@ export default function Countdown({ targetDate, onCountdownEnd }) {
       if (!updated || Object.keys(updated).length <= 0) {
         setTimeout(() => {
           onCountdownEnd()
-        }, 3000)
-      }
-    }, 1000)
+      }, 1000)
+    }
 
     return () => clearTimeout(timer)
   }, [timeLeft, targetDate])
