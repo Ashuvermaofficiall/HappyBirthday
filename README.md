@@ -29,7 +29,7 @@ This was created as part of an emotional reel where the journey begins with a fe
    ![Screenshot 2](./public/ss2.png)
 
 3. **Happy Birthday Message Screen**
-   ![Screenshot 3](./public/ss3.png)
+  
 
 ---
 
@@ -47,8 +47,8 @@ This was created as part of an emotional reel where the journey begins with a fe
 To run this project locally:
 
 ```bash
-git clone https://github.com/Anuj579/birthday-site.git
-cd birthday-site
+git clone https://github.com/Ashuvermaofficiall/HappyBirthday.git
+cd Happy-Birthday
 npm install
 npm run dev
 ```
@@ -61,11 +61,7 @@ Make sure to update the target date in `Home` component if you want to reuse thi
 
 Follow for more such creative and code-based content!
 
-- 📸 **Instagram**: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎥 **YouTube**: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 **Twitter/X**: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 **LinkedIn**: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
-
+- 📸 **Instagram**: [@anujbuilds](https://instagram.com/_cheri_1122)
 ---
 
 Thanks for checking out this project! If you liked it, consider giving it a ⭐️ on GitHub and sharing the reel ❤️
