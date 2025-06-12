@@ -1,6 +1,6 @@
 # Birthday Surprise Website 🎂🎉
 
-This is a special **Birthday Celebration Website** created using **Next.js, Tailwind CSS, Framer Motion**, and **Lucide Icons**.  
+This is a special **Birthday Celebration Website** created using **Next.js, Tailwind CSS, Framer Motion**, and **Lucide Icons**.  SUBJECT IS UNDER COPYRIGHT ©️ RESERVED SECTION, and all rights of it goes to @ashuvermaofficiall github to contact the creator text on Instagram  @_cheri_122
 It's designed as a personal and emotional way to wish someone special — when you can't be there physically, let your code speak! 💖
 
 ---
