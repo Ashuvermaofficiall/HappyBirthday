@@ -26,7 +26,7 @@ export default function BirthdayCelebration() {
           <Sparkles className="w-8 h-8 text-yellow-500" />
           <Heart className="w-8 h-8 text-pink-500" />
         </div>
-        <h3 className="text-2xl sm:text-3xl font-bold text-center text-pink-600 mt-2">To My cutiepie</h3>
+        <h3 className="text-2xl sm:text-3xl font-bold text-center text-pink-600 mt-2">To Uh miss aarohi</h3>
       </motion.div>
 
       <motion.div
@@ -54,7 +54,7 @@ export default function BirthdayCelebration() {
             </div>
 
             <div className="text-center text-white">
-              <p className="text-lg font-medium mb-4">Tap to {isCardOpen ? "close" : "open"} your card</p>
+              <p className="text-lg font-medium mb-4">Heyy Mumma Tap {isCardOpen ? "close" : "open"} Here </p>
               <div className="flex justify-center">
                 <motion.div
                   animate={{
@@ -88,9 +88,9 @@ export default function BirthdayCelebration() {
             >
               <div className="text-center">
                 <p className="text-purple-700 mb-2">
-                Just wanted to remind you, you're my favorite person! My days are better, smiles are wider, and life is sweeter because of you.
+                Just wanted to remind you that; You are my favorite person! You were my favorite person! And you'll always be my favourite dear!<3
                 </p>
-                <p className="text-pink-600 font-medium">I hope your birthday is full of love, magic, and everything that makes you smile 💖</p>
+                <p className="text-pink-600 font-medium">I hope your birthday is full of love, joy, and everything that makes you smile 💖</p>
                 <div className="flex justify-center">
                   <motion.div
                     animate={{
@@ -118,10 +118,10 @@ export default function BirthdayCelebration() {
       >
         <div className="text-center">
           <p className="text-lg text-purple-700 mb-4">
-          May every wish you make today come true. You deserve the world, and I’ll always be thankful to have you in my life.
+          May every wish you make today comes true! You deserve the world, and I’ll always be thankful to have you in my life.
           </p>
           <div className="flex justify-center items-center gap-2">
-            <p className="text-pink-600 font-medium">Let’s always stay like this... tysm dear for everything 🫶</p>
+            <p className="text-pink-600 font-medium"> tysm dear for everything 🫶! May we always stay like this!! </p>
           </div>
         </div>
       </motion.div>
