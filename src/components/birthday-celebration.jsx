@@ -121,7 +121,7 @@ export default function BirthdayCelebration() {
           May every wish you make today comes true! You deserve the world, and I’ll always be thankful to have you in my life.
           </p>
           <div className="flex justify-center items-center gap-2">
-            <p className="text-pink-600 font-medium"> tysm dear for everything 🫶! May we always stay like this!! </p>
+            <p className="text-pink-600 font-medium"> Tysm dear for everything 🫶! May we always stay like this!! </p>
           </div>
         </div>
       </motion.div>
