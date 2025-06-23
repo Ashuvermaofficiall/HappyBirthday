@@ -54,7 +54,7 @@ export default function BirthdayCelebration() {
             </div>
 
             <div className="text-center text-white">
-              <p className="text-lg font-medium mb-4">Heyy Ma'am Tap {isCardOpen ? "close" : "open"} Here </p>
+              <p className="text-lg font-medium mb-4">Heyy Ma'am Tap Here to {isCardOpen ? "close" : "open"} </p>
               <div className="flex justify-center">
                 <motion.div
                   animate={{
