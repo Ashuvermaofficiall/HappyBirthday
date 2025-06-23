@@ -105,7 +105,7 @@ function Loader() {
             repeat: Number.POSITIVE_INFINITY,
           }}
         >
-          Loading something special...
+          Hang up a bit mumma!...
         </motion.p>
 
         {/* Cute emojis */}
