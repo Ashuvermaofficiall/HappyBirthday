@@ -87,7 +87,7 @@ export default function Countdown({ targetDate, onCountdownEnd }) {
         transition={{ delay: 0.5 }}
       >
         <p className="text-lg text-purple-700 mb-4">
-          Just a little more... There is a special gift; For the spcial person ❤️
+          Just a little more... because someone so special like youu deserves something truly special. ❤️
         </p>
 
         <div className="flex justify-center space-x-2">
