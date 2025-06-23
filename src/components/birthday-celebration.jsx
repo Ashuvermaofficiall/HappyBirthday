@@ -88,7 +88,7 @@ export default function BirthdayCelebration() {
             >
               <div className="text-center">
                 <p className="text-purple-700 mb-2">
-                Just wanted to remind you that; You are my favorite person! You were my favorite person! And you'll always be my favourite dear!<3
+                  {"Just wanted to remind you that; You are my favorite person! You were my favorite person! And you'll always be my favourite dear!<3"}
                 </p>
                 <p className="text-pink-600 font-medium">I hope your birthday is full of love, joy, and everything that makes you smile 💖</p>
                 <div className="flex justify-center">
